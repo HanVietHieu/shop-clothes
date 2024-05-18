@@ -3,3 +3,4 @@
 /src/config/configDB.json
 /src/config/connect-DB.js
 .env
+package-lock
